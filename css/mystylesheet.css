@@ -1,0 +1,10 @@
+
+/* aplicado em video aovivo */
+.objectImageVideo {
+  min-width: 100%;
+  width: 333px;
+  height: 433px;
+  object-fit: cover;
+  object-position: center;
+
+}
